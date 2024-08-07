@@ -1,1 +1,4 @@
 # LibraryPatika
+
+## Kullanılan Teknolojiler
+* C#
